@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omer! <br/>Founder, Developer and an AI Researhcer</h1>
+<h1>Hi, I'm Omer! <br/>Founder, Developer and an AI Researcher</h1>
 
 <h2>My Projects:</h2>
 
